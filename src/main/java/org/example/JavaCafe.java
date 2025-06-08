@@ -12,7 +12,7 @@ public class JavaCafe {
     public List<String> order = new ArrayList<String>();
 
     /**
-     * Runs the Java Cafe program. (Mauin menu)
+     * Runs the Java Cafe program. (Main menu)
      */
     public void run() {
         while(true) {
